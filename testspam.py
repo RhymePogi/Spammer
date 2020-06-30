@@ -1,4 +1,5 @@
 import time
+print("===================================")
 def taym():
   time.sleep(0.3)
 def main():
